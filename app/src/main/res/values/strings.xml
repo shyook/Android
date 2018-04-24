@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GithubClient</string>
+    <string name="name">Name : 1$s</string>
+    <string name="created_at">Created at : 1$s</string>
+    <string name="updated_at">Updated at : 1$s</string>
+    <string name="description">Description :</string>
+    <string name="title_activity_details">Repository details</string>
+    <string name="title_activity_repositories">Repositories</string>
+    <string name="internet_connection_unavailable">Internet connection unavailable</string>
+    <string name="server_error">Server error</string>
+    <string name="lbl_reload">Reload</string>
+</resources>
